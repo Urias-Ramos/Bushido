@@ -1,0 +1,43 @@
+BUSHIDO
+
+Desarrollador
+        Urias Ramos
+ 
+ 
+GUI
+        Free Jungle Cartoon GUI
+        Author: Free Game Assets (GUI, Sprite, Tilesets)
+
+PLAYER ASSET
+        Fire Warrior
+        Author: By Dreamir
+
+ENVIRONMENT ASSET
+        Oak Woods-Environment Asset
+        Author: brullov
+
+ENEMY ASSETS
+        Animated pixel art skeleton
+        Author: AstroBob
+ 
+        -Fire Worm
+        -Monsters Creatures Fantasy
+        Author: LuizMelo
+        
+        Slime Animations
+        Reff Pixels
+        
+        Old Guardian
+        Eddie's Workshop
+
+ASSETS
+        Animated Traps
+        Author: Stealthix
+ 
+ 
+Music
+        Robados de internet xd
+ 
+ 
+Sound Effect
+        Robados de internet xd

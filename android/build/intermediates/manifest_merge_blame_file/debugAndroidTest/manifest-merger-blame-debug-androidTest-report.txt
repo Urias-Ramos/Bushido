@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bushido.game.test" >
+4
+5    <uses-sdk
+5-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:5:5-74
+6        android:minSdkVersion="14"
+6-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:5:42-71
+8
+9    <instrumentation
+9-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:11:5-15:66
+10        android:name="android.test.InstrumentationTestRunner"
+10-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:11:22-75
+11        android:functionalTest="false"
+11-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:14:22-52
+12        android:handleProfiling="false"
+12-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:13:22-53
+13        android:label="Tests for com.bushido.game"
+13-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:15:22-64
+14        android:targetPackage="com.bushido.game" />
+14-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:12:22-62
+15
+16    <application android:debuggable="true" >
+16-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:8:9-60
+17-->C:\workspace\libGDX\Bushido\android\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10718497438554755788.xml:8:23-57
+18    </application>
+19
+20</manifest>

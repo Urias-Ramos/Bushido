@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="android/src"/>
+	<classpathentry kind="src" path="core/src"/>
+	<classpathentry kind="src" path="desktop/src"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/badlogic.jpg.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/icon_controller_jump.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/icon_controller_left.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/icon_controller_right.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/map.tmx.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/N.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/player.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/compressed_assets/debug/out/assets/robot_tileset.png.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/project_dex_archive/debug/out/65e7a9ca7a97387ff7012a4f6bbd88a6ec9cbc807879c3ca1edff047b5921242_0.jar"/>
+	<classpathentry kind="lib" path="core/build/libs/core-1.0.jar"/>
+	<classpathentry kind="lib" path="desktop/build/libs/desktop-1.0.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="android/build/intermediates/javac/debug/classes"/>
+</classpath>

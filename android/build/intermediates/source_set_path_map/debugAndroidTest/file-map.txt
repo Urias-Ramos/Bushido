@@ -1,0 +1,7 @@
+com.bushido.game.test.android-androidTest-0 C:\workspace\libGDX\Bushido\android\build\generated\res\resValues\androidTest\debug
+com.bushido.game.test.android-androidTest-1 C:\workspace\libGDX\Bushido\android\build\generated\res\rs\androidTest\debug
+com.bushido.game.test.android-mergeDebugAndroidTestResources-2 C:\workspace\libGDX\Bushido\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.bushido.game.test.android-mergeDebugAndroidTestResources-3 C:\workspace\libGDX\Bushido\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.bushido.game.test.android-merged_res-4 C:\workspace\libGDX\Bushido\android\build\intermediates\merged_res\debugAndroidTest
+com.bushido.game.test.android-androidTest-5 C:\workspace\libGDX\Bushido\android\src\androidTest\res
+com.bushido.game.test.android-androidTestDebug-6 C:\workspace\libGDX\Bushido\android\src\androidTestDebug\res

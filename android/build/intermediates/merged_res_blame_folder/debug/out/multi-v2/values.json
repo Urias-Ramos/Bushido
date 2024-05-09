@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bushido.game.android-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\workspace\\libGDX\\Bushido\\android\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "C:\\workspace\\libGDX\\Bushido\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "44",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "44",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

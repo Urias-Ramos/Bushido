@@ -1,0 +1,11 @@
+{
+"levelID": 1,
+"health": 80,
+"lives": 1,
+"score": 50,
+"ammo": 6,
+"spawnLocation": {
+	"x": 6.5,
+	"y": 5.5
+}
+}

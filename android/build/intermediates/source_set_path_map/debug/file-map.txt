@@ -1,0 +1,8 @@
+com.bushido.game.android-pngs-0 C:\workspace\libGDX\Bushido\android\build\generated\res\pngs\debug
+com.bushido.game.android-resValues-1 C:\workspace\libGDX\Bushido\android\build\generated\res\resValues\debug
+com.bushido.game.android-rs-2 C:\workspace\libGDX\Bushido\android\build\generated\res\rs\debug
+com.bushido.game.android-mergeDebugResources-3 C:\workspace\libGDX\Bushido\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.bushido.game.android-mergeDebugResources-4 C:\workspace\libGDX\Bushido\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.bushido.game.android-merged_res-5 C:\workspace\libGDX\Bushido\android\build\intermediates\merged_res\debug
+com.bushido.game.android-android-6 C:\workspace\libGDX\Bushido\android\res
+com.bushido.game.android-debug-7 C:\workspace\libGDX\Bushido\android\src\debug\res
